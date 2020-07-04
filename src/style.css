@@ -1,0 +1,19 @@
+*{
+	background-color: #F4BABA;
+}
+
+button {
+    position: absolute;
+    left: 40%;
+    top: 10%;
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+}
+img{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 30%;
+    top: 30%;
+}
